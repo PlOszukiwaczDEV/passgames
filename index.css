@@ -1,0 +1,33 @@
+/* Fonts */
+/* Roboto 300 Light: font-family: 'Roboto', sans-serif; */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: gray;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #password-form {
+    margin-bottom: 20px;
+  }
+  
+  #password {
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  #games {
+    margin-top: 20px;
+  }
